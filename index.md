@@ -1,4 +1,3 @@
-# CAMPUS EARTH
 ## Student Hackathon
 
 ### What?
